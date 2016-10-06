@@ -1,0 +1,15 @@
+//
+//  share.pch
+//  分享
+//
+//  Created by huhang on 15/11/2.
+//  Copyright (c) 2015年 huhang. All rights reserved.
+//
+
+#ifndef ___share_pch
+#define ___share_pch
+
+#import <ShareSDK/ShareSDK.h>
+#import "share.h"
+
+#endif
